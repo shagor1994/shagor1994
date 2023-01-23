@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tarik Imran Shagor
-- 👀 I’m interested in ...Programming
-- 🌱 I’m currently learning ...Docker, Kubernetes, Automated Testing and Shopify App development
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Docker, Kubernetes, Automated Testing and Shopify App development
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
  -->
